@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 I'm a front-end developer.
+<br/>
+<br/>
+<br/>
 
 
 SKILL
 Plarfrom & Languages
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
