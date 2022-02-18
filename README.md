@@ -6,15 +6,16 @@ I'm a front-end developer.
 <br/>
 
 
-SKILL
-Plarfrom & Languages
-<br/>
+## SKILL
+### Plarfrom & Languages
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<br/><br/>
+
+### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
 
-Tools
+### Tools
 
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=black"/><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/>
 
