@@ -8,7 +8,7 @@ I'm a front-end developer.
 <br/>
 <h3 align="center">📫Contact</h3>
 <div align="center">
-  <a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Cheri-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a>
+  <a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="pride0504@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </div>
 
