@@ -3,7 +3,7 @@
  <h3 align="center">Hi there 👋
 
 <br/>
-<h3 align="center">📘</h3>
+<h3 align="center"></h3>
 <div align="center">
   <a href="https://spiritual-notebook-05f.notion.site/a13cdb11fbe848ffb4fde31dcb51b5f0">
    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
