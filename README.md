@@ -5,7 +5,7 @@
 <br/>
 <h3 align="center"></h3>
 <div align="center">
-  <a href="https://spiritual-notebook-05f.notion.site/a13cdb11fbe848ffb4fde31dcb51b5f0">
+  <a href="https://www.notion.so/43d6ac61625a4dc99fa297a5de16ed40?pvs=4">
    <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   &nbsp
