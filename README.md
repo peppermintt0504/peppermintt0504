@@ -21,8 +21,8 @@
 
  
 <br/>
- <div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=animus0504"></div>
-
+ <div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=animus0504"><img src="http://mazandi.herokuapp.com/api?handle=animus0504&theme=cold"/></div>
+ 
 <div width="450px" height="300px" background-color ="balck">
 </div>
 
